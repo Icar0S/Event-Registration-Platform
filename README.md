@@ -2,11 +2,10 @@
 projeto realizado pela pythonando na pystackweek 
 
 ### Conceitos
-![Cliente servidor.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6076cc0-2d69-4c17-9b9f-f2a51d2ddb24/Cliente_servidor.png)
+![Cliente_servidor](https://user-images.githubusercontent.com/39846852/232044613-fd83b8da-c9e8-435c-8983-7552c4169ab2.png)
 
 Fluxo de dados no Django:
-![Arquitetura.png](image.png)
-
+![diagrama_fluxo](https://user-images.githubusercontent.com/39846852/232044653-0bda3a30-cdb7-4288-9cdf-289f964ccba5.png)
 
 
 ### Configurações iniciais
