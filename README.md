@@ -56,3 +56,6 @@ python3 manage.py startapp usuarios
 ```
 
 Crie uma URL para o APP usuarios:
+```jsx
+path('usuarios/', include('usuarios.urls')),
+```
